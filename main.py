@@ -27,5 +27,4 @@ print(richard.pozdrav())
 #richard.zostarni(5)
 #print(richard.color)
 
-
 print(richard.bydlisko())
