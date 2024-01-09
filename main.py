@@ -28,4 +28,5 @@ print(richard.pozdrav())
 #print(richard.color)
 
 
+
 print(richard.bydlisko())
