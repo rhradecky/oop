@@ -16,6 +16,7 @@ class Person:
         self.age += 5
 
 
+
 richard = Person( "Richard", 30, "technik", "Ivanka")
 
 
