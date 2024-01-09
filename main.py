@@ -34,7 +34,6 @@ class Student(Person):
 patrik = Student( "Patrik", 30, "muz", "Bratislava", 95)
 milan = Student( "Milan", 30, "muz", "Bratislava", 48)
 
-
 print(patrik.name)
 patrik.pozdrav()
 patrik.jeGenius()
